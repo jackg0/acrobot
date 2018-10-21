@@ -1,6 +1,6 @@
 '''
 Author: Jack Geissinger
-Date: October 17, 2018
+Date: October 21, 2018
 
 True Online Sarsa(lambda) implementation for Acrobot
 
